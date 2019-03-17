@@ -1,0 +1,2 @@
+Roll_no        Name        OOP    %        DSD    %        SP    %        MATHS    %        ECO    %
+17cse1015      shibi        2        6.66667    2        6.667    3        10    4        13.33    5        16.6   
